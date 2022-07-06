@@ -9,7 +9,7 @@ Werkzeug==0.10.4
 argparse==1.2.1
 chardet==2.0.1
 colorama==0.2.5
-html5lib==0.999
+html5lib==0.999999999
 itsdangerous==0.24
 numpy==1.9.2
 pandas==0.16.2
