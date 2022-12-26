@@ -23,5 +23,5 @@ pytz==2015.4
 requests==2.2.1
 six==1.5.2
 urllib3==1.7.1
-wheel==0.24.0
+wheel==0.38.1
 wsgiref==0.1.2
